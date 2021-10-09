@@ -55,7 +55,7 @@ Select your operating system to get the corresponding installation steps:
       -  Open "Anaconda Prompt"
       -  :bash:`conda list`, which should list all installed Anaconda packages
 
-   #. Create a new Python 3.7 environment with the name mialab (confirm with :bash:`y` when promoted during creation)
+   #. Create a new Python 3.7 environment with the name mialab (confirm with :bash:`y` when prompted during creation)
 
       -  :bash:`conda create -n mialab python=3.7`
 
